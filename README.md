@@ -1,4 +1,4 @@
-\# 📈 Stock Market Data Analyzer
+# 📈 Stock Market Data Analyzer
 
 
 
@@ -10,41 +10,41 @@ This application fetches real-time stock market data, performs financial analysi
 
 
 
-\---
+---
 
 
 
-\# 🚀 Features
+# 🚀 Features
 
 
 
-\- Real-time stock market data fetching
+- Real-time stock market data fetching
 
-\- Yahoo Finance API integration
+- Yahoo Finance API integration
 
-\- Moving average analysis
+- Moving average analysis
 
-\- Daily return analysis
+- Daily return analysis
 
-\- Volatility analysis
+- Volatility analysis
 
-\- Trading volume visualization
+- Trading volume visualization
 
-\- Interactive Streamlit dashboard
+- Interactive Streamlit dashboard
 
-\- Downloadable CSV reports
+- Downloadable CSV reports
 
-\- Financial KPI analytics
+- Financial KPI analytics
 
-\- Interactive charts using Plotly
-
-
-
-\---
+- Interactive charts using Plotly
 
 
 
-\# 🎯 Project Objective
+---
+
+
+
+# 🎯 Project Objective
 
 
 
@@ -52,25 +52,25 @@ The goal of this project is to build a stock market analytics system capable of:
 
 
 
-\- Fetching live stock market data
+- Fetching live stock market data
 
-\- Performing financial analysis
+- Performing financial analysis
 
-\- Visualizing stock trends
+- Visualizing stock trends
 
-\- Calculating volatility and returns
+- Calculating volatility and returns
 
-\- Generating interactive dashboards
+- Generating interactive dashboards
 
-\- Supporting investment analysis workflows
-
-
-
-\---
+- Supporting investment analysis workflows
 
 
 
-\# 🛠️ Tech Stack
+---
+
+
+
+# 🛠️ Tech Stack
 
 
 
@@ -96,15 +96,15 @@ The goal of this project is to build a stock market analytics system capable of:
 
 
 
-\---
+---
 
 
 
-\# 📦 Installation
+# 📦 Installation
 
 
 
-\## Clone Repository
+## Clone Repository
 
 
 
@@ -116,7 +116,7 @@ git clone https://github.com/your-username/stock-market-data-analyzer.git
 
 
 
-\## Move into Project Folder
+## Move into Project Folder
 
 
 
@@ -128,7 +128,7 @@ cd Stock-Market-Data-Analyzer
 
 
 
-\## Install Dependencies
+## Install Dependencies
 
 
 
@@ -144,7 +144,7 @@ pip install -r requirements.txt
 
 
 
-\# ▶️ Run Application
+# ▶️ Run Application
 
 
 
@@ -156,11 +156,11 @@ python -m streamlit run app.py
 
 
 
-\---
+---
 
 
 
-\# 📊 Dashboard Features
+# 📊 Dashboard Features
 
 
 
@@ -168,115 +168,116 @@ The dashboard provides:
 
 
 
-\- Stock ticker analysis
+- Stock ticker analysis
 
-\- Price trend visualization
+- Price trend visualization
 
-\- Moving average analysis
+- Moving average analysis
 
-\- Daily returns tracking
+- Daily returns tracking
 
-\- Trading volume analysis
+- Trading volume analysis
 
-\- Volatility metrics
+- Volatility metrics
 
-\- Downloadable stock reports
+- Downloadable stock reports
 
 
 
-\---
+---
 
 
 
-\# 📈 Financial Analysis Included
+# 📈 Financial Analysis Included
 
 
 
-\- Highest stock price
+- Highest stock price
 
-\- Lowest stock price
+- Lowest stock price
 
-\- Average closing price
+- Average closing price
 
-\- Daily returns
+- Daily returns
 
-\- Moving averages
+- Moving averages
 
-\- Volatility analysis
+- Volatility analysis
 
-\- Trading volume analysis
+- Trading volume analysis
 
 
 
-\---
+---
 
 
 
-\# 📸 Screenshots
+# 📸 Screenshots
 
 
 
-\## Dashboard
+## Dashboard
 
 
 
-!\[Dashboard](images/dashboard.png)
+<img width="1894" height="848" alt="dashboard" src="https://github.com/user-attachments/assets/eb8f9d35-d119-4e8f-92a3-6e2e2d238687" />
 
 
+---
 
-\---
 
 
+## KPI Cards
 
-\## KPI Cards
 
 
+<img width="1780" height="242" alt="KPI_cards" src="https://github.com/user-attachments/assets/3eeefdde-39cf-4467-a240-c917731e1da2" />
 
-!\[KPI Cards](images/kpi\_cards.png)
 
 
 
-\---
+---
 
 
 
-\## Moving Average Analysis
+## Moving Average Analysis
 
 
+<img width="1844" height="508" alt="moving_average_chart" src="https://github.com/user-attachments/assets/d525fcdd-699b-4744-8218-b9e1a5606136" />
 
-!\[Moving Average](images/moving\_average\_chart.png)
 
 
+---
 
-\---
 
 
+## Daily Returns Analysis
 
-\## Daily Returns Analysis
 
 
+<img width="1847" height="513" alt="returns_chart" src="https://github.com/user-attachments/assets/e3f9e4cd-657c-462b-9e21-8f19c2fcac13" />
 
-!\[Returns](images/returns\_chart.png)
 
 
 
-\---
+---
 
 
 
-\## Trading Volume Analysis
+## Trading Volume Analysis
 
 
 
-!\[Volume](images/volume\_chart.png)
+<img width="1843" height="527" alt="volume_chart" src="https://github.com/user-attachments/assets/20911143-4cec-4550-a8b2-cf098cc33938" />
 
 
 
-\---
 
+---
 
 
-\# 🧠 Learning Outcomes
+
+# 🧠 Learning Outcomes
 
 
 
@@ -284,29 +285,29 @@ Through this project, I learned:
 
 
 
-\- Financial data analysis
+- Financial data analysis
 
-\- Stock market analytics
+- Stock market analytics
 
-\- API integration using yfinance
+- API integration using yfinance
 
-\- Interactive dashboard development
+- Interactive dashboard development
 
-\- Data visualization with Plotly
+- Data visualization with Plotly
 
-\- Time-series analysis
+- Time-series analysis
 
-\- Financial KPI calculation
+- Financial KPI calculation
 
-\- GitHub project management
-
-
-
-\---
+- GitHub project management
 
 
 
-\# 🚀 Industry Relevance
+---
+
+
+
+# 🚀 Industry Relevance
 
 
 
@@ -314,17 +315,17 @@ This project demonstrates:
 
 
 
-\- Financial analytics workflows
+- Financial analytics workflows
 
-\- Data-driven investment analysis
+- Data-driven investment analysis
 
-\- Dashboard development
+- Dashboard development
 
-\- Real-time data processing
+- Real-time data processing
 
-\- Visualization skills
+- Visualization skills
 
-\- Time-series analysis
+- Time-series analysis
 
 
 
@@ -332,45 +333,44 @@ Applicable domains:
 
 
 
-\- Financial analytics
+- Financial analytics
 
-\- Investment research
+- Investment research
 
-\- Equity analysis
+- Equity analysis
 
-\- FinTech
+- FinTech
 
-\- Business analytics
-
-
-
-\---
+- Business analytics
 
 
-
-\# 🔥 Future Enhancements
+---
 
 
 
-\- Portfolio optimization
-
-\- Multi-stock comparison
-
-\- Technical indicators
-
-\- SMA crossover signals
-
-\- Stock prediction models
-
-\- Machine learning integration
+# 🔥 Future Enhancements
 
 
 
-\---
+- Portfolio optimization
+
+- Multi-stock comparison
+
+- Technical indicators
+
+- SMA crossover signals
+
+- Stock prediction models
+
+- Machine learning integration
 
 
 
-\# 👨‍💻 Author
+---
+
+
+
+# 👨‍💻 Author
 
 
 
@@ -378,11 +378,11 @@ Dinesh Ponnam
 
 
 
-\---
+---
 
 
 
-\# ⭐ GitHub
+# ⭐ GitHub
 
 
 
