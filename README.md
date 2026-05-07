@@ -72,27 +72,17 @@ The goal of this project is to build a stock market analytics system capable of:
 
 # 🛠️ Tech Stack
 
-
-
 | Technology | Purpose |
-
-| ---| ---|
-
+|---|---|
 | Python | Core programming |
-
 | Streamlit | Dashboard development |
-
 | Pandas | Data analysis |
-
 | NumPy | Numerical operations |
-
 | Plotly | Interactive visualization |
-
 | Matplotlib | Financial charts |
-
 | yfinance | Stock market API |
-
 | datetime | Date handling |
+
 
 
 
