@@ -76,7 +76,7 @@ The goal of this project is to build a stock market analytics system capable of:
 
 | Technology | Purpose |
 
-|---|---|
+| ---| ---|
 
 | Python | Core programming |
 
