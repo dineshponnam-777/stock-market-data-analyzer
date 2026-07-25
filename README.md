@@ -100,7 +100,7 @@ The goal of this project is to build a stock market analytics system capable of:
 
 ```bash
 
-git clone https://github.com/your-username/stock-market-data-analyzer.git
+git clone https://github.com/dineshponnam-777/stock-market-data-analyzer.git
 
 ```
 
